@@ -2,7 +2,7 @@
 
 Welcome to the **AR Learner** app! This is a beginner-friendly Augmented Reality (AR) learning application developed with Jetpack Compose for Android, utilizing **SceneView** and **ARCore**. The app offers an engaging way to learn alphabets through 3D models and a fun quiz game.
 
-[![Watch the Tutorial on YouTube](https://img.shields.io/badge/Watch%20on-YouTube-red)](https://www.youtube.com/watch?v=YourVideoLink)
+[![Watch the Tutorial on YouTube](https://img.shields.io/badge/Watch%20on-YouTube-red)](https://www.youtube.com/watch?v=1whLL4XJlh4)
 
 ## Features
 
@@ -22,3 +22,10 @@ Welcome to the **AR Learner** app! This is a beginner-friendly Augmented Reality
    ```bash
    git clone https://github.com/furqanullah717/ARLearner-Compose.git
    cd ARLearner-Compose
+2. **Open in Android Studio**.
+3. **Configure Firebase**: Connect the app to Firebase to set up Authentication and Firestore.
+4. **Build and Run** the app on an Android device or emulator.
+
+## Stay Connected
+
+Follow along for more Android tutorials every week!
